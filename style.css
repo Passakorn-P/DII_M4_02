@@ -24,6 +24,10 @@ ol {
   color: #F1FAEE;
 }
 
+ul>li:nth-child(odd) {
+  color: #E63946;
+}
+
 .non_sporting {
   background-color: #45789D;  
 }
@@ -36,3 +40,4 @@ ol {
 ol>li {
   font-weight: bold;
 }
+
